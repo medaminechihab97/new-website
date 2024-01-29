@@ -1,0 +1,37 @@
+p {
+	color: green;
+	font-size: 40px
+}
+
+
+div {
+	visibility: visible;
+
+
+}
+
+h1 {
+	margin: auto;
+	padding: 50px 20px;
+	border: auto;
+	border-color: red;
+
+
+}
+
+.one,
+.two,
+.three,
+.four,
+.five {
+	
+	padding: 30px 15px;
+	margin: 15px 15px;
+	background-color: green;
+
+}
+h2 {
+	padding: 15px;
+	margin: auto;
+
+}
