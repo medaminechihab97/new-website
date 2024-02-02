@@ -1,6 +1,7 @@
 p {
 	color: green;
 	font-size: 40px
+	background-color: red;
 }
 
 
@@ -28,10 +29,18 @@ h1 {
 	padding: 30px 15px;
 	margin: 15px 15px;
 	background-color: green;
+	position: relative;
+	
+
 
 }
 h2 {
 	padding: 15px;
 	margin: auto;
+
+}
+
+html{
+	min-width: 15000px;
 
 }
